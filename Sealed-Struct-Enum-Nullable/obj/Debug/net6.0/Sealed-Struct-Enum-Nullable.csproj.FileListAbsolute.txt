@@ -1,0 +1,14 @@
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\bin\Debug\net6.0\Sealed-Struct-Enum-Nullable.exe
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\bin\Debug\net6.0\Sealed-Struct-Enum-Nullable.deps.json
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\bin\Debug\net6.0\Sealed-Struct-Enum-Nullable.runtimeconfig.json
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\bin\Debug\net6.0\Sealed-Struct-Enum-Nullable.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\bin\Debug\net6.0\Sealed-Struct-Enum-Nullable.pdb
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\obj\Debug\net6.0\Sealed-Struct-Enum-Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\obj\Debug\net6.0\Sealed-Struct-Enum-Nullable.AssemblyInfoInputs.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\obj\Debug\net6.0\Sealed-Struct-Enum-Nullable.AssemblyInfo.cs
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\obj\Debug\net6.0\Sealed-Struct-Enum-Nullable.csproj.CoreCompileInputs.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\obj\Debug\net6.0\Sealed-Struct-Enum-Nullable.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\obj\Debug\net6.0\refint\Sealed-Struct-Enum-Nullable.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\obj\Debug\net6.0\Sealed-Struct-Enum-Nullable.pdb
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\obj\Debug\net6.0\Sealed-Struct-Enum-Nullable.genruntimeconfig.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Sealed-Struct-Enum-Nullable\Sealed-Struct-Enum-Nullable\obj\Debug\net6.0\ref\Sealed-Struct-Enum-Nullable.dll
